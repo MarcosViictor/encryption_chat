@@ -121,8 +121,7 @@ Uma vez que o servidor está rodando e o cliente está conectado:
 
 **Desenvolvido para:** Faculdade Paraíso  
 **Disciplina:** Biohacking, Criptografia e Deep Web  
-**Autor(es):** [Marcos Victor Dantas de Souza, Mauricio Brito, Arthur Facundo, Pedro Alexandre]
-**Orientador:** [Francisco de Asis]
+**Autor:** [Marcos Victor Dantas de Souza]
 
 # Em inglês 🇺🇸
 
@@ -249,5 +248,5 @@ Once the server is running and the client is connected:
 
 **Developed for:** Faculdade Paraíso  
 **Course:** Biohacking, Criptografia e Deep Web  
-**Author(s):** [Marcos Victor Dantas de Souza, Mauricio Brito, Arthur Facundo, Pedro Alexandre]
-**Teacher:** [Francisco de Asis]
+**Author:** [Marcos Victor Dantas de Souza]
+
